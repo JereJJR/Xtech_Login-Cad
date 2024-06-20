@@ -9,15 +9,6 @@
         "user_login": "Jeremias@Ju.Sistema"
     },
     {
-        "id": 50,
-        "user_nome": "Teste",
-        "user_senha": "1234",
-        "user_email": "teste@gmbbb.com.br",
-        "user_dt_cad": "13.12.2023",
-        "user_sobrenome": "Terceiro",
-        "user_login": "Teste@Te.Manutencao.T"
-    },
-    {
         "id": 72,
         "user_nome": "Marcelo",
         "user_senha": "teste",
@@ -43,5 +34,14 @@
         "user_dt_cad": "20.06.2024",
         "user_sobrenome": "12",
         "user_login": "JJ@12.Xtech"
+    },
+    {
+        "id": 50,
+        "user_nome": "Teste",
+        "user_senha": "1234",
+        "user_email": "teste@jje.com.br",
+        "user_dt_cad": "13.12.2023",
+        "user_sobrenome": "Terceiro",
+        "user_login": "Teste@Te.Manutencao.T"
     }
 ]

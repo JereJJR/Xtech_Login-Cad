@@ -17,7 +17,7 @@ if (!isset($_SESSION['nomeUser'])) {
 <html lang="PT-BR">
 
 <head>
-    <title>CpBBB-Inicial</title>
+    <title>Xtech-Inicial</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -36,7 +36,7 @@ if (!isset($_SESSION['nomeUser'])) {
 
                 <div class="container-fluid">
 
-                    <a class="nav-link navbar-brand" id="CpBBB" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="margin-top:-10px;">
+                    <a class="nav-link navbar-brand" id="Xtech" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="margin-top:-10px;">
                         <img src="../Imagens/icones/avatar_account2.jpg" width="60px" style="margin-top:5px;"> Xtech
                     </a>
 

@@ -158,5 +158,5 @@ session_start();
     <script src="js/main.js"></script>
     <script type="text/javascript" src=js/FuncLogin.js></script>
 
-    <!-- <footer>Sistema Controle de Patrimonio BBB &copy; 2022</footer> -->
+  
 </body>

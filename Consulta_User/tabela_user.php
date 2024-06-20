@@ -6,6 +6,14 @@
     <title>Lista de Usuários</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
+   
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="nav-link navbar-brand" id="Xtech" href="../Inicial/CarregaInicio.php" role="button" style="margin-top:0px;">
+            Xtech
+        </a>          
+        </div>
+    </nav>
 </head>
 <body>
 <h1>Lista de Usuários</h1>
