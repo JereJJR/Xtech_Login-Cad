@@ -1,0 +1,128 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10px 0;
+  text-align: left;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-family: FontAwesome;
+  color: white;
+  background: black;
+  margin-left: 5px;
+}
+
+/* #menuInicial {
+      background-image: url(../imagens/background/background_inicio.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position-y: 1cm;
+      background-attachment: fixed;  
+      justify-content: center;
+     
+      min-height: 80vh; 
+      min-width: 10vh; 
+
+   background-color: rgb(10, 48, 105); 
+
+    
+  
+} */
+/* #menuInicial {
+  background-image: url(../imagens/background/sistema-operacional.jpg);
+  background-position: center;
+  
+  background-size: cover;
+  background-position-y: 5cm;
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: 18cm;
+
+  min-height: 100vh;
+ 
+
+  background-color: rgb(15, 160, 183);
+
+
+
+} */
+#menuInicial {
+  background-image: url(../Imagens/background/background_inicio2.jpg);
+
+  background-position: center;
+
+  background-size: cover;
+  /* background-position-y: 4cm; */
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 14cm; 
+  min-height: 100vh;
+  background-color: rgb(255, 255, 255);
+
+  animation: image infinite 28s;
+
+
+
+
+}
+
+@keyframes image{
+  0%{
+    background-image: url(../Imagens/background/background_inicio2.jpg);
+
+    /* background-size: 11cm; */
+      background-color: rgb(255, 255, 255);
+
+  }
+  50%{
+    background-image: url(../Imagens/background/sistema-operacional.jpg);
+     background-position-y: 4cm;
+      background-size: 18cm; 
+    background-color: rgb(15, 160, 183);
+  }
+ 
+  
+}
+
+
+#navInicio{
+  padding: 1px;
+  background-color:black;
+  
+}
+
+#FormLogout{
+  margin-left: auto;
+}
+
+#LBlogout{
+  margin-top: 10px;
+  color: #ffff;
+  width: 60px;
+}
+
+#IMGlogout{
+width:40px; 
+margin-top: 1px;
+color: #ffff;
+margin-left: -20px;
+background-color: transparent;
+}
+
+#BTTlogout:hover{
+  background-color: transparent;
+}
+
+#navbarSupportedContent{
+  /* display: flex;
+  margin-left: 5%;
+  margin-right: auto; */
+
+  
+  
+  /* Centralizar na vertical */
+  /* position: absolute; */
+ 
+}

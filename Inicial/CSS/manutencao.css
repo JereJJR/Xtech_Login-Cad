@@ -1,0 +1,189 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  font-size: 16;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.form1{
+  display: flex;
+  flex-wrap: wrap;
+  /*max-width: 800px;*/
+  margin: 10px;
+}
+
+div h1{
+    text-align: center;
+    padding: 20px;
+    font-family: Times New Roman;
+    font-size: 25;
+    background-color: black;
+    height: 30px;
+    color: white;
+    margin-left: auto 410px;
+    margin-right: auto 410px;
+}
+#form1 label{
+  font-size: 12;
+  margin: 15px 15px;
+}
+
+#divTipo label{
+  margin-right: 10px;
+  font-size: 12;
+  margin: 15px 15px;
+}
+.desc{
+    display: block;
+    height: 28px;
+    margin: 5px;
+    border-radius: 10px;
+    border:1px solid black;
+    font-size: 12pt;
+    padding: 0px 10px;
+    outline: none;
+    text-decoration-color: black;
+    margin-left: 10px;
+    background-color:#E0EEEE;
+    border:solid 2px #5F9EA0;
+    width: 400px;
+}
+select{
+    display: block;
+    height: 33px;
+    width: 250px;
+    margin: 3px;
+    border-radius: 10px;
+    background-color:#E0EEEE;
+    border:solid 2px #5F9EA0;
+    font-size: 12pt;
+    padding: 0px 10px;
+    outline: none;
+    cursor: pointer;
+}
+
+#txtBusca{
+  float:left;
+  background-color:#E0EEEE;
+  border:solid 2px #5F9EA0;
+  padding-left:5px;
+  font-size: 12pt;
+  border-radius:10px;
+  width:200px;
+  height:28px;  
+  margin-top: 23px;
+  text-align: center;
+}
+
+#btnBusca{
+  border:none;
+  float:left;
+  height:32px;
+  border-radius: 0px 10px 10px 0px;
+  width:70px;
+  font-weight:bold;
+  background:#5F9EA0;
+  margin-top: 23px;
+  margin-left: -10px;
+  text-align: center;
+  padding-right: 5px;
+  cursor: pointer;
+}
+
+#divBusca img{
+  float:left;
+  margin-left: -150px;
+  margin-top: 27px;
+}
+
+#divBusca label {
+  margin-left: -260px;
+}
+#id_obs{
+  margin-left: 20px;
+}
+
+#txtobs{
+  display: block;
+  height: 28px;
+  margin: 5px;
+  border-radius: 10px;
+  border:1px solid black;
+  font-size: 12pt;
+  padding: 0px 10px;
+  outline: none;
+  text-decoration-color: black;
+  margin-left: 10px;
+  background-color:#E0EEEE;
+  border:solid 2px #5F9EA0;
+  width: 400px;
+}
+
+#divContr label {
+  margin-right: 10px;
+  font-size: 12;
+  margin: 15px 15px;
+}
+#divObs label{
+margin-right: 10px;
+font-size: 12;
+margin: 15px 15px;
+}
+#divDesc label{
+margin-right: 10px;
+font-size: 12;
+margin: 15px 15px;
+}
+
+
+#txtCont{
+  display: block;
+  height: 28px;
+  margin: 5px;
+  border-radius: 10px;
+  border:1px solid black;
+  font-size: 12pt;
+  padding: 0px 10px;
+  outline: none;
+  text-decoration-color: black;
+  margin-left: 0px;
+  background-color:#E0EEEE;
+  border:solid 2px #5F9EA0;
+  width: 240px;
+}
+
+
+
+#btnAdd{
+  border:none;
+  float:left;
+  height:40px;
+  border-radius: 20px;
+  width:100px;
+  font-weight:bold;
+  background: green;
+  margin-top: 23px;
+  /*margin-left: 700px;*/
+  text-align: center;
+  padding-right: 5px;
+  cursor: pointer;
+  color: aliceblue;
+  margin: 10px;
+  margin-top: 22px;
+}
+#btnCanc{
+  border:none;
+  float:left;
+  height:40px;
+  border-radius: 20px;
+  width:100px;
+  font-weight:bold;
+  background: red;
+  margin-top: 23px;
+   /*margin-left: 700px;*/
+  text-align: center;
+  padding-right: 5px;
+  cursor: pointer;
+  color: aliceblue;
+}

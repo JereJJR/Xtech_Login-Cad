@@ -1,0 +1,47 @@
+[
+    {
+        "id": 49,
+        "user_nome": "Jeremias",
+        "user_senha": "8888",
+        "user_email": "jejejunior1@gmail.com",
+        "user_dt_cad": "13.12.2023",
+        "user_sobrenome": "Junior",
+        "user_login": "Jeremias@Ju.Sistema"
+    },
+    {
+        "id": 50,
+        "user_nome": "Teste",
+        "user_senha": "1234",
+        "user_email": "teste@gmbbb.com.br",
+        "user_dt_cad": "13.12.2023",
+        "user_sobrenome": "Terceiro",
+        "user_login": "Teste@Te.Manutencao.T"
+    },
+    {
+        "id": 72,
+        "user_nome": "Marcelo",
+        "user_senha": "teste",
+        "user_email": "teste@teste.com",
+        "user_dt_cad": "07.03.2024",
+        "user_sobrenome": "Leal",
+        "user_login": "Marcelo@Le.Tecnologia"
+    },
+    {
+        "id": 6,
+        "user_nome": "Junior",
+        "user_senha": "0399",
+        "user_email": "teste_3@",
+        "user_dt_cad": null,
+        "user_sobrenome": "JJ",
+        "user_login": "Junior@JJ.Tecnologia"
+    },
+    {
+        "id": 74,
+        "user_nome": "JJ",
+        "user_senha": "1414",
+        "user_email": "12@jj.com",
+        "user_dt_cad": "20.06.2024",
+        "user_sobrenome": "12",
+        "user_login": "JJ@12.Xtech"
+    }
+]
